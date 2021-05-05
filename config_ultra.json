@@ -1,5 +1,5 @@
 {
-  "notificationDisconnectEnable": true,
-  "notificationPauseResumeEnable": true,
-  "version": 16
+  "notificationDisconnectEnable": false,
+  "notificationPauseResumeEnable": false,
+  "version": 1
 }
